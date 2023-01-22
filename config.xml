@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>prestashoptowoocommerce</name>
+	<displayName><![CDATA[Prestashop to Woocommerce]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Description goes here]]></description>
+	<author><![CDATA[webgarh]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
